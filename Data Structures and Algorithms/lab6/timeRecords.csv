@@ -1,0 +1,100 @@
+Shape,Elapsed Time,Sort Type
+random,0.134,Quick Sort Last
+Shape,Elapsed Time,Sort Type
+random,0.135,Quick Sort Last
+Shape,Elapsed Time,Sort Type
+random,0.137,Quick Sort Last
+Shape,Elapsed Time,Sort Type
+random,0.134,Quick Sort Last
+Shape,Elapsed Time,Sort Type
+random,0.135,Quick Sort Last
+Shape,Elapsed Time,Sort Type
+random,0.117,Quick Sort Middle
+sorted,0.042,Quick Sort Middle
+reversed,0.054,Quick Sort Middle
+organpipe,3.743,Quick Sort Middle
+rotated,0.045,Quick Sort Middle
+Shape,Elapsed Time,Sort Type
+random,0.117,Quick Sort Middle
+sorted,0.043,Quick Sort Middle
+reversed,0.054,Quick Sort Middle
+organpipe,3.75,Quick Sort Middle
+rotated,0.044,Quick Sort Middle
+Shape,Elapsed Time,Sort Type
+random,0.117,Quick Sort Middle
+sorted,0.045,Quick Sort Middle
+reversed,0.054,Quick Sort Middle
+organpipe,3.757,Quick Sort Middle
+rotated,0.045,Quick Sort Middle
+Shape,Elapsed Time,Sort Type
+random,0.116,Quick Sort Middle
+sorted,0.042,Quick Sort Middle
+reversed,0.053,Quick Sort Middle
+organpipe,3.743,Quick Sort Middle
+rotated,0.045,Quick Sort Middle
+Shape,Elapsed Time,Sort Type
+random,0.116,Quick Sort Middle
+sorted,0.043,Quick Sort Middle
+reversed,0.054,Quick Sort Middle
+organpipe,3.755,Quick Sort Middle
+rotated,0.046,Quick Sort Middle
+Shape,Elapsed Time,Sort Type
+random,0.119,Quick Sort Median of 3
+sorted,0.046,Quick Sort Median of 3
+reversed,0.058,Quick Sort Median of 3
+organpipe,4.424,Quick Sort Median of 3
+rotated,0.052,Quick Sort Median of 3
+Shape,Elapsed Time,Sort Type
+random,0.122,Quick Sort Median of 3
+sorted,0.045,Quick Sort Median of 3
+reversed,0.057,Quick Sort Median of 3
+organpipe,4.484,Quick Sort Median of 3
+rotated,0.048,Quick Sort Median of 3
+Shape,Elapsed Time,Sort Type
+random,0.117,Quick Sort Median of 3
+sorted,0.049,Quick Sort Median of 3
+reversed,0.058,Quick Sort Median of 3
+organpipe,4.463,Quick Sort Median of 3
+rotated,0.047,Quick Sort Median of 3
+Shape,Elapsed Time,Sort Type
+random,0.119,Quick Sort Median of 3
+sorted,0.045,Quick Sort Median of 3
+reversed,0.057,Quick Sort Median of 3
+organpipe,4.5,Quick Sort Median of 3
+rotated,0.048,Quick Sort Median of 3
+Shape,Elapsed Time,Sort Type
+random,0.12,Quick Sort Median of 3
+sorted,0.046,Quick Sort Median of 3
+reversed,0.058,Quick Sort Median of 3
+organpipe,4.421,Quick Sort Median of 3
+rotated,0.047,Quick Sort Median of 3
+Shape,Elapsed Time,Sort Type
+random,0.127,Quick Sort Random
+sorted,0.105,Quick Sort Random
+reversed,0.161,Quick Sort Random
+organpipe,0.082,Quick Sort Random
+rotated,0.103,Quick Sort Random
+Shape,Elapsed Time,Sort Type
+random,0.126,Quick Sort Random
+sorted,0.106,Quick Sort Random
+reversed,0.16,Quick Sort Random
+organpipe,0.083,Quick Sort Random
+rotated,0.106,Quick Sort Random
+Shape,Elapsed Time,Sort Type
+random,0.129,Quick Sort Random
+sorted,0.106,Quick Sort Random
+reversed,0.163,Quick Sort Random
+organpipe,0.083,Quick Sort Random
+rotated,0.109,Quick Sort Random
+Shape,Elapsed Time,Sort Type
+random,0.131,Quick Sort Random
+sorted,0.104,Quick Sort Random
+reversed,0.163,Quick Sort Random
+organpipe,0.086,Quick Sort Random
+rotated,0.103,Quick Sort Random
+Shape,Elapsed Time,Sort Type
+random,0.143,Quick Sort Random
+sorted,0.111,Quick Sort Random
+reversed,0.162,Quick Sort Random
+organpipe,0.086,Quick Sort Random
+rotated,0.105,Quick Sort Random
