@@ -1,6 +1,6 @@
 /**************************************************/
 /*                                                */
-/*  Lab 2 Starter file                            */
+/*  Lab 3 Starter file                            */
 /*                                                */
 /*  Name:Michael                                  */
 /*  Student number:143152189                      */
