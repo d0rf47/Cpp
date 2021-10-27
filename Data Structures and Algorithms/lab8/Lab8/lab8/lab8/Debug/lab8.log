@@ -1,0 +1,12 @@
+﻿  lab8tester.cpp
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(123,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(121): message : while compiling class template member function 'void BST<int>::copyTo(BST<int>::Node *&,const BST<int>::Node *)'
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(118): message : see reference to function template instantiation 'void BST<int>::copyTo(BST<int>::Node *&,const BST<int>::Node *)' being compiled
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8tester.cpp(40): message : see reference to class template instantiation 'BST<int>' being compiled
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(356,7): warning C4101: 'j': unreferenced local variable
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(354): message : while compiling class template member function 'void Queue<BST<int>::print::Output>::grow(void)'
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(376): message : see reference to function template instantiation 'void Queue<BST<int>::print::Output>::grow(void)' being compiled
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(303): message : see reference to class template instantiation 'Queue<BST<int>::print::Output>' being compiled
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8.h(287): message : while compiling class template member function 'void BST<int>::print(void) const'
+C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\lab8tester.cpp(128): message : see reference to function template instantiation 'void BST<int>::print(void) const' being compiled
+  lab8.vcxproj -> C:\Users\Falcons\Documents\Seneca\Semester5\DSA555\labs-michael-falconi\lab8\Lab8\lab8\Debug\lab8.exe

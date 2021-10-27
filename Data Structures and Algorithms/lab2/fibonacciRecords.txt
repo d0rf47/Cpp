@@ -1,0 +1,50 @@
+fibonacci (21) = 10946
+fibonacci (21) took 0.0001043 s
+fibonacci (22) = 17711
+fibonacci (22) took 0.0001891 s
+fibonacci (23) = 28657
+fibonacci (23) took 0.0002344 s
+fibonacci (24) = 46368
+fibonacci (24) took 0.0004559 s
+fibonacci (25) = 75025
+fibonacci (25) took 0.0011084 s
+fibonacci (26) = 121393
+fibonacci (26) took 0.0013516 s
+fibonacci (27) = 196418
+fibonacci (27) took 0.0020338 s
+fibonacci (28) = 317811
+fibonacci (28) took 0.003146 s
+fibonacci (29) = 514229
+fibonacci (29) took 0.0047781 s
+fibonacci (30) = 832040
+fibonacci (30) took 0.0078353 s
+fibonacci (31) = 1346269
+fibonacci (31) took 0.0172748 s
+fibonacci (32) = 2178309
+fibonacci (32) took 0.0204597 s
+fibonacci (33) = 3524578
+fibonacci (33) took 0.0327103 s
+fibonacci (34) = 5702887
+fibonacci (34) took 0.0568457 s
+fibonacci (35) = 9227465
+fibonacci (35) took 0.0886811 s
+fibonacci (36) = 14930352
+fibonacci (36) took 0.140918 s
+fibonacci (37) = 24157817
+fibonacci (37) took 0.238496 s
+fibonacci (38) = 39088169
+fibonacci (38) took 0.392535 s
+fibonacci (39) = 63245986
+fibonacci (39) took 0.600486 s
+fibonacci (40) = 102334155
+fibonacci (40) took 0.983307 s
+fibonacci (41) = 165580141
+fibonacci (41) took 1.56587 s
+fibonacci (42) = 267914296
+fibonacci (42) took 2.53799 s
+fibonacci (43) = 433494437
+fibonacci (43) took 4.13985 s
+fibonacci (44) = 701408733
+fibonacci (44) took 6.80285 s
+fibonacci (45) = 1134903170
+fibonacci (45) took 11.7714 s
