@@ -1,3 +1,11 @@
+/**************************************************/
+/*                                                */
+/*  Lab 6 Starter file                            */
+/*                                                */
+/*  Name:Michael                                  */
+/*  Student number:143152189                      */
+/*                                                */
+/**************************************************/
 #include <cstdlib>
 #include <iostream>
 #include <fstream>
